@@ -1,4 +1,4 @@
-Go Serverless with AWS!
+GO SERVERLESS WITH AWS!
 
 Mega Project on AWS and Serverless
 
